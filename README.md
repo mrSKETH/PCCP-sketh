@@ -24,7 +24,7 @@
 ## 🛠️ Установка  
 1. Склонируй репозиторий:  
    ```bash
-   git clone https://github.com/TheSKETH/PCCP-sketh.git
+   git clone https://github.com/mrSKETH/PCCP-sketh.git
 ````
 
 2. Следуй инструкции внутри репозитория.
